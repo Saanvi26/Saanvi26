@@ -9,7 +9,8 @@
 
 ### <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=👋+Hey+there,+I'm+Saanvi+Lakhanpal.;💻+A+self+taught+programmer,+student.;👨🏻‍💻+Web+Developer.)](https://github.com/pranshugupta54)
   
-- 🏫 B.Tech CSE'26, NIT Kkr  
+- 🏫 B.Tech CSE'26, NIT Kkr 
+- 💻 Web Developer
 - 🌱 I’m currently learning DSA
 </div>
 
